@@ -2,10 +2,22 @@
 - This is the client side code of a university web application that I did as my final year project.
 
 * User registarion view
+
+![1](https://user-images.githubusercontent.com/77986239/224378312-ea8e5487-4f74-4016-82ea-c8e2c03713a2.png)
+
 * User login view
+![2](https://user-images.githubusercontent.com/77986239/224378394-8e055800-7aa7-4f98-8ef4-c38689c27349.png)
+
 * Friends and Groups tab
+
+![3](https://user-images.githubusercontent.com/77986239/224378462-1af17c7c-3fbf-4310-8e0b-430ab1f79384.png)
+
 * Group creation view 
+![4](https://user-images.githubusercontent.com/77986239/224378525-0e393494-04a3-4447-aa9e-89e644639a5b.png)
+
 * Chat Area
+
+![5](https://user-images.githubusercontent.com/77986239/224378590-1ea7c050-ff27-4022-a54e-ef9c35ddc76c.png)
 
 ## Quick Setup
 1. Fork then clone the project into local machine 🍴
