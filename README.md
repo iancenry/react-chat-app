@@ -1,9 +1,11 @@
 # Realtime Messaging Web Application
-- User registarion view
-- User login view
-- Friends and Groups tab
-- Group creation view 
-- Chat Area
+- This is the client side code of a university web application that I did as my final year project.
+
+* User registarion view
+* User login view
+* Friends and Groups tab
+* Group creation view 
+* Chat Area
 
 ## Quick Setup
 1. Fork then clone the project into local machine 🍴
