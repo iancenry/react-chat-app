@@ -29,4 +29,4 @@
 1. Happy coding 💻
 
 * Dependencies used: axios, stream-chat-react, stream-chat, universal-cookie
-* Link to backend code : 
+* Link to backend code : [Server/backend code](https://github.com/iancenry/react-chat-app-server)  
