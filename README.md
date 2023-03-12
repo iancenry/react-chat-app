@@ -30,6 +30,9 @@
 
 * Dependencies used: axios, stream-chat-react, stream-chat, universal-cookie
 * Link to backend code : [Server/backend code](https://github.com/iancenry/react-chat-app-server)  
+
+- [Live Demo](https://ru-chat.netlify.app/)
 - Scan for live demo: 
 
 ![Picture1](https://user-images.githubusercontent.com/77986239/224475151-2936c982-4082-4558-a2f2-4db9205298ff.png)
+
